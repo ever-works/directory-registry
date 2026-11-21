@@ -10,7 +10,7 @@
 		"name": { "type": "string", "maxLength": 200 },
 		"directories": {
 			"type": "array",
-			"maxItems": 2000,
+			"maxItems": 400,
 			"items": {
 				"type": "object",
 				"required": ["id", "url"],

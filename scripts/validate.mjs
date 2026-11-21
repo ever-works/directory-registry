@@ -60,7 +60,7 @@ for (const [index, entry] of (doc.directories ?? []).entries()) {
 	stringList(entry, 'aliases', where);
 	if (entry.listed !== undefined && typeof entry.listed !== 'boolean') errors.push(`${where}: "listed" must be true or false`);
 }
-if ((doc.directories?.length ?? 0) > 2000) errors.push('at most 2000 directories');
+if ((doc.directories?.length ?? 0) > 400) errors.push('at most 400 directories (the hub reads two documents per directory per cold search)');
 
 if (errors.length) {
 	console.error(errors.join('\n'));

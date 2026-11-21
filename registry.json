@@ -1,0 +1,1219 @@
+{
+	"version": 1,
+	"name": "Ever Works directories",
+	"directories": [
+		{
+			"id": "ai-voice-agents",
+			"url": "https://ai-voice-agents.ever.works",
+			"name": "Awesome AI Voice Agents",
+			"topics": [
+				"ai voice agents",
+				"ai phone agent",
+				"voice ai platform",
+				"conversational voice ai"
+			]
+		},
+		{
+			"id": "llm-gateways",
+			"url": "https://llm-gateways.ever.works",
+			"name": "Awesome LLM Gateways",
+			"topics": [
+				"llm gateway",
+				"ai gateway",
+				"llm router",
+				"llm proxy",
+				"openai compatible api"
+			]
+		},
+		{
+			"id": "meeting-assistants",
+			"url": "https://meeting-assistants.ever.works",
+			"name": "Awesome AI Meeting Assistants",
+			"topics": [
+				"ai meeting assistant",
+				"ai notetaker",
+				"meeting transcription",
+				"ai meeting notes"
+			]
+		},
+		{
+			"id": "ai-support",
+			"url": "https://ai-support.ever.works",
+			"name": "Awesome AI Customer Support",
+			"topics": [
+				"ai customer support",
+				"ai support agent",
+				"ai customer service",
+				"support automation"
+			]
+		},
+		{
+			"id": "ai-sales-tools",
+			"url": "https://ai-sales-tools.ever.works",
+			"name": "Awesome AI Sales Tools",
+			"topics": [
+				"ai sdr",
+				"ai sales tools",
+				"ai sales agent",
+				"ai prospecting"
+			]
+		},
+		{
+			"id": "geo-tools",
+			"url": "https://geo-tools.ever.works",
+			"name": "Awesome GEO Tools",
+			"topics": [
+				"generative engine optimization",
+				"geo tools",
+				"ai visibility",
+				"llm seo",
+				"answer engine optimization"
+			]
+		},
+		{
+			"id": "gpu-clouds",
+			"url": "https://gpu-clouds.ever.works",
+			"name": "Awesome GPU Clouds",
+			"topics": [
+				"gpu cloud",
+				"cloud gpu",
+				"rent gpu",
+				"serverless gpu",
+				"h100 cloud"
+			]
+		},
+		{
+			"id": "agent-builders",
+			"url": "https://agent-builders.ever.works",
+			"name": "Awesome AI Agent Builders",
+			"topics": [
+				"ai agent builder",
+				"no-code ai agents",
+				"ai agent platform",
+				"build ai agents"
+			]
+		},
+		{
+			"id": "agent-sandboxes",
+			"url": "https://agent-sandboxes.ever.works",
+			"name": "Awesome Agent Sandboxes",
+			"topics": [
+				"ai code sandbox",
+				"agent sandbox",
+				"code interpreter api",
+				"secure code execution"
+			]
+		},
+		{
+			"id": "agentic-payments",
+			"url": "https://agentic-payments.ever.works",
+			"name": "Awesome Agentic Payments",
+			"topics": [
+				"agentic payments",
+				"agentic commerce",
+				"x402",
+				"ai agent payments",
+				"ap2 protocol"
+			]
+		},
+		{
+			"id": "ai-search-apis",
+			"url": "https://ai-search-apis.ever.works",
+			"name": "Awesome AI Search APIs",
+			"topics": [
+				"search api for llm",
+				"ai search api",
+				"web search api",
+				"serp api"
+			]
+		},
+		{
+			"id": "text-to-speech",
+			"url": "https://text-to-speech.ever.works",
+			"name": "Awesome Text-to-Speech",
+			"topics": [
+				"text to speech",
+				"tts api",
+				"ai voice generator",
+				"voice cloning"
+			]
+		},
+		{
+			"id": "ai-testing-tools",
+			"url": "https://ai-testing-tools.ever.works",
+			"name": "Awesome AI Testing Tools",
+			"topics": [
+				"ai testing tools",
+				"ai test automation",
+				"ai qa",
+				"autonomous testing"
+			]
+		},
+		{
+			"id": "ai-writing-tools",
+			"url": "https://ai-writing-tools.ever.works",
+			"name": "Awesome AI Writing Tools",
+			"topics": [
+				"ai writing tools",
+				"ai writer",
+				"ai copywriting",
+				"ai content generator"
+			]
+		},
+		{
+			"id": "ai-governance",
+			"url": "https://ai-governance.ever.works",
+			"name": "Awesome AI Governance",
+			"topics": [
+				"ai governance software",
+				"eu ai act compliance",
+				"ai risk management",
+				"responsible ai tools"
+			]
+		},
+		{
+			"id": "ai-design-tools",
+			"url": "https://ai-design-tools.ever.works",
+			"name": "Awesome AI Design Tools",
+			"topics": [
+				"ai design tools",
+				"ai ui generator",
+				"ai graphic design",
+				"ai logo maker"
+			]
+		},
+		{
+			"id": "chatgpt-apps",
+			"url": "https://chatgpt-apps.ever.works",
+			"name": "Awesome ChatGPT Apps",
+			"topics": [
+				"chatgpt apps",
+				"apps sdk",
+				"chatgpt app directory",
+				"openai apps sdk"
+			]
+		},
+		{
+			"id": "feature-flags",
+			"url": "https://feature-flags.ever.works",
+			"name": "Awesome Feature Flags",
+			"topics": [
+				"feature flags",
+				"feature toggles",
+				"feature management",
+				"launchdarkly alternatives"
+			]
+		},
+		{
+			"id": "uptime-monitoring",
+			"url": "https://uptime-monitoring.ever.works",
+			"name": "Awesome Uptime Monitoring",
+			"topics": [
+				"uptime monitoring",
+				"website monitoring",
+				"cron monitoring",
+				"status page"
+			]
+		},
+		{
+			"id": "error-tracking",
+			"url": "https://error-tracking.ever.works",
+			"name": "Awesome Error Tracking",
+			"topics": [
+				"error tracking",
+				"crash reporting",
+				"exception monitoring",
+				"sentry alternatives"
+			]
+		},
+		{
+			"id": "log-management",
+			"url": "https://log-management.ever.works",
+			"name": "Awesome Log Management",
+			"topics": [
+				"log management",
+				"log analytics",
+				"centralized logging",
+				"logging platform"
+			]
+		},
+		{
+			"id": "incident-management",
+			"url": "https://incident-management.ever.works",
+			"name": "Awesome Incident Management",
+			"topics": [
+				"incident management",
+				"on-call scheduling",
+				"pagerduty alternatives",
+				"incident response software"
+			]
+		},
+		{
+			"id": "transactional-email",
+			"url": "https://transactional-email.ever.works",
+			"name": "Awesome Transactional Email",
+			"topics": [
+				"transactional email api",
+				"email api",
+				"smtp service",
+				"sendgrid alternatives"
+			]
+		},
+		{
+			"id": "sms-apis",
+			"url": "https://sms-apis.ever.works",
+			"name": "Awesome SMS APIs",
+			"topics": [
+				"sms api",
+				"sms gateway",
+				"bulk sms api",
+				"twilio alternatives"
+			]
+		},
+		{
+			"id": "notifications",
+			"url": "https://notifications.ever.works",
+			"name": "Awesome Notification Infrastructure",
+			"topics": [
+				"notification infrastructure",
+				"push notification service",
+				"notification api",
+				"in-app notifications"
+			]
+		},
+		{
+			"id": "webhooks",
+			"url": "https://webhooks.ever.works",
+			"name": "Awesome Webhooks",
+			"topics": [
+				"webhooks as a service",
+				"webhook infrastructure",
+				"webhook testing",
+				"webhook gateway"
+			]
+		},
+		{
+			"id": "api-gateways",
+			"url": "https://api-gateways.ever.works",
+			"name": "Awesome API Gateways",
+			"topics": [
+				"api gateway",
+				"api management",
+				"kong alternatives",
+				"open source api gateway"
+			]
+		},
+		{
+			"id": "baas",
+			"url": "https://baas.ever.works",
+			"name": "Awesome Backend-as-a-Service",
+			"topics": [
+				"backend as a service",
+				"baas",
+				"firebase alternatives",
+				"supabase alternatives"
+			]
+		},
+		{
+			"id": "paas",
+			"url": "https://paas.ever.works",
+			"name": "Awesome PaaS",
+			"topics": [
+				"paas",
+				"heroku alternatives",
+				"self-hosted paas",
+				"app deployment platform"
+			]
+		},
+		{
+			"id": "vps-hosting",
+			"url": "https://vps-hosting.ever.works",
+			"name": "Awesome VPS Hosting",
+			"topics": [
+				"vps hosting",
+				"vps providers",
+				"cheap vps",
+				"bare metal server"
+			]
+		},
+		{
+			"id": "managed-databases",
+			"url": "https://managed-databases.ever.works",
+			"name": "Awesome Managed Databases",
+			"topics": [
+				"serverless database",
+				"managed postgres",
+				"dbaas",
+				"database hosting"
+			]
+		},
+		{
+			"id": "object-storage",
+			"url": "https://object-storage.ever.works",
+			"name": "Awesome Object Storage",
+			"topics": [
+				"object storage",
+				"s3 compatible storage",
+				"s3 alternatives",
+				"cloud storage pricing"
+			]
+		},
+		{
+			"id": "headless-cms",
+			"url": "https://headless-cms.ever.works",
+			"name": "Awesome Headless CMS",
+			"topics": [
+				"headless cms",
+				"open source headless cms",
+				"contentful alternatives",
+				"api-first cms"
+			]
+		},
+		{
+			"id": "localization",
+			"url": "https://localization.ever.works",
+			"name": "Awesome Localization",
+			"topics": [
+				"translation management system",
+				"localization platform",
+				"i18n tools",
+				"crowdin alternatives"
+			]
+		},
+		{
+			"id": "session-replay",
+			"url": "https://session-replay.ever.works",
+			"name": "Awesome Session Replay",
+			"topics": [
+				"session replay",
+				"session recording",
+				"heatmaps",
+				"hotjar alternatives"
+			]
+		},
+		{
+			"id": "ab-testing",
+			"url": "https://ab-testing.ever.works",
+			"name": "Awesome A/B Testing",
+			"topics": [
+				"ab testing tools",
+				"experimentation platform",
+				"split testing",
+				"optimizely alternatives"
+			]
+		},
+		{
+			"id": "cdp",
+			"url": "https://cdp.ever.works",
+			"name": "Awesome Customer Data Platforms",
+			"topics": [
+				"customer data platform",
+				"cdp",
+				"segment alternatives",
+				"composable cdp"
+			]
+		},
+		{
+			"id": "product-tours",
+			"url": "https://product-tours.ever.works",
+			"name": "Awesome Product Tours",
+			"topics": [
+				"product tour software",
+				"user onboarding",
+				"digital adoption platform",
+				"interactive demo"
+			]
+		},
+		{
+			"id": "changelog-tools",
+			"url": "https://changelog-tools.ever.works",
+			"name": "Awesome Changelog Tools",
+			"topics": [
+				"changelog tool",
+				"release notes software",
+				"product updates widget",
+				"changelog generator"
+			]
+		},
+		{
+			"id": "finops",
+			"url": "https://finops.ever.works",
+			"name": "Awesome FinOps",
+			"topics": [
+				"finops tools",
+				"cloud cost management",
+				"cloud cost optimization",
+				"kubernetes cost monitoring"
+			]
+		},
+		{
+			"id": "secrets-management",
+			"url": "https://secrets-management.ever.works",
+			"name": "Awesome Secrets Management",
+			"topics": [
+				"secrets management",
+				"secrets manager",
+				"vault alternatives",
+				"secret scanning"
+			]
+		},
+		{
+			"id": "internal-tools",
+			"url": "https://internal-tools.ever.works",
+			"name": "Awesome Internal Tools",
+			"topics": [
+				"internal tool builder",
+				"retool alternatives",
+				"admin panel builder",
+				"low-code internal tools"
+			]
+		},
+		{
+			"id": "pdf-tools",
+			"url": "https://pdf-tools.ever.works",
+			"name": "Awesome PDF Tools",
+			"topics": [
+				"pdf tools",
+				"pdf api",
+				"html to pdf",
+				"pdf editor"
+			]
+		},
+		{
+			"id": "identity-verification",
+			"url": "https://identity-verification.ever.works",
+			"name": "Awesome Identity Verification",
+			"topics": [
+				"identity verification",
+				"kyc software",
+				"id verification api",
+				"kyb"
+			]
+		},
+		{
+			"id": "test-management",
+			"url": "https://test-management.ever.works",
+			"name": "Awesome Test Management",
+			"topics": [
+				"test management tool",
+				"test case management",
+				"testrail alternatives",
+				"qa management"
+			]
+		},
+		{
+			"id": "engineering-metrics",
+			"url": "https://engineering-metrics.ever.works",
+			"name": "Awesome Engineering Metrics",
+			"topics": [
+				"engineering metrics",
+				"dora metrics",
+				"developer productivity",
+				"engineering intelligence"
+			]
+		},
+		{
+			"id": "merchant-of-record",
+			"url": "https://merchant-of-record.ever.works",
+			"name": "Awesome Merchant of Record",
+			"topics": [
+				"merchant of record",
+				"paddle alternatives",
+				"lemon squeezy alternatives",
+				"saas payments"
+			]
+		},
+		{
+			"id": "email-marketing",
+			"url": "https://email-marketing.ever.works",
+			"name": "Awesome Email Marketing",
+			"topics": [
+				"email marketing software",
+				"newsletter platform",
+				"mailchimp alternatives",
+				"marketing automation"
+			]
+		},
+		{
+			"id": "social-media-tools",
+			"url": "https://social-media-tools.ever.works",
+			"name": "Awesome Social Media Tools",
+			"topics": [
+				"social media management tools",
+				"social media scheduler",
+				"hootsuite alternatives",
+				"social listening"
+			]
+		},
+		{
+			"id": "website-builders",
+			"url": "https://website-builders.ever.works",
+			"name": "Awesome Website Builders",
+			"topics": [
+				"website builder",
+				"landing page builder",
+				"ai website builder",
+				"webflow alternatives"
+			]
+		},
+		{
+			"id": "form-builders",
+			"url": "https://form-builders.ever.works",
+			"name": "Awesome Form Builders",
+			"topics": [
+				"form builder",
+				"online form builder",
+				"typeform alternatives",
+				"form backend"
+			]
+		},
+		{
+			"id": "survey-tools",
+			"url": "https://survey-tools.ever.works",
+			"name": "Awesome Survey Tools",
+			"topics": [
+				"survey software",
+				"nps software",
+				"surveymonkey alternatives",
+				"online survey tool"
+			]
+		},
+		{
+			"id": "customer-feedback",
+			"url": "https://customer-feedback.ever.works",
+			"name": "Awesome Customer Feedback",
+			"topics": [
+				"feedback board",
+				"feature request tool",
+				"public roadmap",
+				"canny alternatives"
+			]
+		},
+		{
+			"id": "affiliate-marketing",
+			"url": "https://affiliate-marketing.ever.works",
+			"name": "Awesome Affiliate Marketing",
+			"topics": [
+				"affiliate software",
+				"referral program software",
+				"partner management",
+				"rewardful alternatives"
+			]
+		},
+		{
+			"id": "review-management",
+			"url": "https://review-management.ever.works",
+			"name": "Awesome Review Management",
+			"topics": [
+				"review management software",
+				"testimonial tool",
+				"reputation management",
+				"collect customer reviews"
+			]
+		},
+		{
+			"id": "community-platforms",
+			"url": "https://community-platforms.ever.works",
+			"name": "Awesome Community Platforms",
+			"topics": [
+				"community platform",
+				"forum software",
+				"online community software",
+				"circle alternatives"
+			]
+		},
+		{
+			"id": "creator-tools",
+			"url": "https://creator-tools.ever.works",
+			"name": "Awesome Creator Tools",
+			"topics": [
+				"creator tools",
+				"membership platform",
+				"sell digital products",
+				"creator economy"
+			]
+		},
+		{
+			"id": "link-in-bio",
+			"url": "https://link-in-bio.ever.works",
+			"name": "Awesome Link in Bio",
+			"topics": [
+				"link in bio",
+				"linktree alternatives",
+				"bio link page",
+				"link in bio tool"
+			]
+		},
+		{
+			"id": "podcasting",
+			"url": "https://podcasting.ever.works",
+			"name": "Awesome Podcasting",
+			"topics": [
+				"podcast hosting",
+				"podcast software",
+				"podcast recording",
+				"podcast tools"
+			]
+		},
+		{
+			"id": "crm",
+			"url": "https://crm.ever.works",
+			"name": "Awesome CRM",
+			"topics": [
+				"crm software",
+				"best crm",
+				"open source crm",
+				"crm for small business"
+			]
+		},
+		{
+			"id": "sales-engagement",
+			"url": "https://sales-engagement.ever.works",
+			"name": "Awesome Sales Engagement",
+			"topics": [
+				"cold email software",
+				"sales engagement platform",
+				"email outreach",
+				"lemlist alternatives"
+			]
+		},
+		{
+			"id": "lead-generation",
+			"url": "https://lead-generation.ever.works",
+			"name": "Awesome Lead Generation",
+			"topics": [
+				"lead generation tools",
+				"b2b data provider",
+				"data enrichment",
+				"zoominfo alternatives"
+			]
+		},
+		{
+			"id": "e-signature",
+			"url": "https://e-signature.ever.works",
+			"name": "Awesome E-Signature",
+			"topics": [
+				"e-signature",
+				"electronic signature software",
+				"docusign alternatives",
+				"esign api"
+			]
+		},
+		{
+			"id": "help-desk",
+			"url": "https://help-desk.ever.works",
+			"name": "Awesome Help Desk",
+			"topics": [
+				"help desk software",
+				"ticketing system",
+				"zendesk alternatives",
+				"customer support software"
+			]
+		},
+		{
+			"id": "live-chat",
+			"url": "https://live-chat.ever.works",
+			"name": "Awesome Live Chat",
+			"topics": [
+				"live chat software",
+				"website chat widget",
+				"intercom alternatives",
+				"customer messaging"
+			]
+		},
+		{
+			"id": "contact-center",
+			"url": "https://contact-center.ever.works",
+			"name": "Awesome Contact Center",
+			"topics": [
+				"contact center software",
+				"ccaas",
+				"call center software",
+				"cloud contact center"
+			]
+		},
+		{
+			"id": "voip",
+			"url": "https://voip.ever.works",
+			"name": "Awesome VoIP",
+			"topics": [
+				"voip phone system",
+				"business phone service",
+				"virtual phone number",
+				"open source pbx"
+			]
+		},
+		{
+			"id": "whatsapp-business",
+			"url": "https://whatsapp-business.ever.works",
+			"name": "Awesome WhatsApp Business",
+			"topics": [
+				"whatsapp business api",
+				"whatsapp marketing",
+				"whatsapp crm",
+				"whatsapp chatbot"
+			]
+		},
+		{
+			"id": "project-management",
+			"url": "https://project-management.ever.works",
+			"name": "Awesome Project Management",
+			"topics": [
+				"project management software",
+				"jira alternatives",
+				"open source project management",
+				"task tracking"
+			]
+		},
+		{
+			"id": "todo-apps",
+			"url": "https://todo-apps.ever.works",
+			"name": "Awesome To-Do Apps",
+			"topics": [
+				"to do list app",
+				"task manager app",
+				"todoist alternatives",
+				"open source todo app"
+			]
+		},
+		{
+			"id": "appointments",
+			"url": "https://appointments.ever.works",
+			"name": "Awesome Appointment Scheduling",
+			"topics": [
+				"appointment scheduling software",
+				"calendly alternatives",
+				"online booking system",
+				"scheduling links"
+			]
+		},
+		{
+			"id": "screen-recorders",
+			"url": "https://screen-recorders.ever.works",
+			"name": "Awesome Screen Recorders",
+			"topics": [
+				"screen recorder",
+				"loom alternatives",
+				"screen recording software",
+				"async video"
+			]
+		},
+		{
+			"id": "presentation-tools",
+			"url": "https://presentation-tools.ever.works",
+			"name": "Awesome Presentation Tools",
+			"topics": [
+				"presentation software",
+				"ai presentation maker",
+				"powerpoint alternatives",
+				"slide deck tools"
+			]
+		},
+		{
+			"id": "document-management",
+			"url": "https://document-management.ever.works",
+			"name": "Awesome Document Management",
+			"topics": [
+				"document management system",
+				"dms software",
+				"paperless office",
+				"open source dms"
+			]
+		},
+		{
+			"id": "personal-finance",
+			"url": "https://personal-finance.ever.works",
+			"name": "Awesome Personal Finance",
+			"topics": [
+				"personal finance app",
+				"budgeting app",
+				"ynab alternatives",
+				"open source budgeting"
+			]
+		},
+		{
+			"id": "hr-software",
+			"url": "https://hr-software.ever.works",
+			"name": "Awesome HR Software",
+			"topics": [
+				"hr software",
+				"hris",
+				"hrms",
+				"open source hr software"
+			]
+		},
+		{
+			"id": "applicant-tracking",
+			"url": "https://applicant-tracking.ever.works",
+			"name": "Awesome Applicant Tracking",
+			"topics": [
+				"applicant tracking system",
+				"ats software",
+				"recruiting software",
+				"ai recruiting"
+			]
+		},
+		{
+			"id": "payroll",
+			"url": "https://payroll.ever.works",
+			"name": "Awesome Payroll",
+			"topics": [
+				"payroll software",
+				"global payroll",
+				"employer of record",
+				"eor services"
+			]
+		},
+		{
+			"id": "shift-scheduling",
+			"url": "https://shift-scheduling.ever.works",
+			"name": "Awesome Employee Scheduling",
+			"topics": [
+				"employee scheduling software",
+				"shift scheduling",
+				"workforce management",
+				"rota software"
+			]
+		},
+		{
+			"id": "lms",
+			"url": "https://lms.ever.works",
+			"name": "Awesome LMS",
+			"topics": [
+				"learning management system",
+				"lms software",
+				"open source lms",
+				"online course platform"
+			]
+		},
+		{
+			"id": "accounting",
+			"url": "https://accounting.ever.works",
+			"name": "Awesome Accounting Software",
+			"topics": [
+				"accounting software",
+				"small business accounting",
+				"quickbooks alternatives",
+				"open source accounting"
+			]
+		},
+		{
+			"id": "invoicing",
+			"url": "https://invoicing.ever.works",
+			"name": "Awesome Invoicing",
+			"topics": [
+				"invoicing software",
+				"free invoice software",
+				"invoice app",
+				"open source invoicing"
+			]
+		},
+		{
+			"id": "expense-management",
+			"url": "https://expense-management.ever.works",
+			"name": "Awesome Expense Management",
+			"topics": [
+				"expense management software",
+				"spend management",
+				"corporate cards",
+				"expensify alternatives"
+			]
+		},
+		{
+			"id": "erp",
+			"url": "https://erp.ever.works",
+			"name": "Awesome ERP",
+			"topics": [
+				"erp software",
+				"open source erp",
+				"cloud erp",
+				"erp for small business"
+			]
+		},
+		{
+			"id": "inventory",
+			"url": "https://inventory.ever.works",
+			"name": "Awesome Inventory Management",
+			"topics": [
+				"inventory management software",
+				"order management system",
+				"stock management",
+				"open source inventory"
+			]
+		},
+		{
+			"id": "pos-systems",
+			"url": "https://pos-systems.ever.works",
+			"name": "Awesome POS Systems",
+			"topics": [
+				"pos system",
+				"point of sale software",
+				"retail pos",
+				"restaurant pos"
+			]
+		},
+		{
+			"id": "ecommerce-platforms",
+			"url": "https://ecommerce-platforms.ever.works",
+			"name": "Awesome E-commerce Platforms",
+			"topics": [
+				"ecommerce platform",
+				"open source ecommerce",
+				"headless commerce",
+				"shopify alternatives"
+			]
+		},
+		{
+			"id": "field-service",
+			"url": "https://field-service.ever.works",
+			"name": "Awesome Field Service",
+			"topics": [
+				"field service management software",
+				"field service app",
+				"dispatch software",
+				"jobber alternatives"
+			]
+		},
+		{
+			"id": "fleet-management",
+			"url": "https://fleet-management.ever.works",
+			"name": "Awesome Fleet Management",
+			"topics": [
+				"fleet management software",
+				"gps fleet tracking",
+				"telematics",
+				"fleet maintenance software"
+			]
+		},
+		{
+			"id": "property-management",
+			"url": "https://property-management.ever.works",
+			"name": "Awesome Property Management",
+			"topics": [
+				"property management software",
+				"landlord software",
+				"rental management",
+				"proptech"
+			]
+		},
+		{
+			"id": "construction",
+			"url": "https://construction.ever.works",
+			"name": "Awesome Construction Software",
+			"topics": [
+				"construction management software",
+				"construction project management",
+				"bim software",
+				"takeoff software"
+			]
+		},
+		{
+			"id": "restaurants",
+			"url": "https://restaurants.ever.works",
+			"name": "Awesome Restaurant Software",
+			"topics": [
+				"restaurant management software",
+				"restaurant pos",
+				"online ordering system",
+				"restaurant reservation software"
+			]
+		},
+		{
+			"id": "hotel-software",
+			"url": "https://hotel-software.ever.works",
+			"name": "Awesome Hotel Software",
+			"topics": [
+				"hotel management software",
+				"hotel pms",
+				"channel manager",
+				"hotel booking engine"
+			]
+		},
+		{
+			"id": "event-management",
+			"url": "https://event-management.ever.works",
+			"name": "Awesome Event Management",
+			"topics": [
+				"event management software",
+				"event ticketing",
+				"virtual event platform",
+				"webinar software"
+			]
+		},
+		{
+			"id": "legal-tech",
+			"url": "https://legal-tech.ever.works",
+			"name": "Awesome Legal Tech",
+			"topics": [
+				"legal tech",
+				"legal software",
+				"legal ai",
+				"law practice management"
+			]
+		},
+		{
+			"id": "nonprofits",
+			"url": "https://nonprofits.ever.works",
+			"name": "Awesome Nonprofit Software",
+			"topics": [
+				"nonprofit software",
+				"donor management software",
+				"fundraising software",
+				"nonprofit crm"
+			]
+		},
+		{
+			"id": "carbon-accounting",
+			"url": "https://carbon-accounting.ever.works",
+			"name": "Awesome Carbon Accounting",
+			"topics": [
+				"carbon accounting software",
+				"esg reporting software",
+				"csrd software",
+				"scope 3 emissions"
+			]
+		},
+		{
+			"id": "itsm",
+			"url": "https://itsm.ever.works",
+			"name": "Awesome ITSM",
+			"topics": [
+				"itsm software",
+				"it service management",
+				"it help desk",
+				"servicenow alternatives"
+			]
+		},
+		{
+			"id": "rmm",
+			"url": "https://rmm.ever.works",
+			"name": "Awesome RMM",
+			"topics": [
+				"rmm software",
+				"msp tools",
+				"remote monitoring and management",
+				"psa software"
+			]
+		},
+		{
+			"id": "homelab",
+			"url": "https://homelab.ever.works",
+			"name": "Awesome Homelab",
+			"topics": [
+				"homelab",
+				"home server",
+				"self hosting",
+				"homelab hardware"
+			]
+		},
+		{
+			"id": "timetrack",
+			"url": "https://timetrack.ever.works",
+			"name": "Awesome Time Tracking",
+			"topics": [
+				"time tracking",
+				"time tracking software",
+				"timesheets",
+				"employee time tracking"
+			]
+		},
+		{
+			"id": "awesome-memes",
+			"url": "https://awesome-memes.ever.works",
+			"name": "Awesome Memes"
+		},
+		{
+			"id": "awesome-memos",
+			"url": "https://awesome-memos.ever.works",
+			"name": "Awesome Memos"
+		},
+		{
+			"id": "awesome-open-source-llms",
+			"url": "https://awesome-open-source-llms.ever.works",
+			"name": "Awesome Open Source LLMs"
+		},
+		{
+			"id": "awesome-remote-team-tools",
+			"url": "https://awesome-remote-team-tools.ever.works",
+			"name": "Awesome Remote Team Tools"
+		},
+		{
+			"id": "awesome-rust-ai-libraries",
+			"url": "https://awesome-rust-ai-libraries.ever.works",
+			"name": "Awesome Rust Ai Libraries"
+		},
+		{
+			"id": "awesome-rust-tools-and-frameworks",
+			"url": "https://awesome-rust-tools-and-frameworks.ever.works",
+			"name": "Awesome Rust Tools and Frameworks"
+		},
+		{
+			"id": "chairs",
+			"url": "https://chairs.ever.works",
+			"name": "Awesome Computer and Gaming Chairs",
+			"topics": [
+				"office chairs",
+				"gaming chairs",
+				"ergonomic chairs"
+			]
+		},
+		{
+			"id": "compliance-automation",
+			"url": "https://compliance-automation.ever.works",
+			"name": "Awesome Compliance Automation",
+			"topics": [
+				"compliance automation",
+				"soc 2",
+				"iso 27001"
+			]
+		},
+		{
+			"id": "dir",
+			"url": "https://dir.ever.works",
+			"name": "Awesome",
+			"topics": [
+				"awesome lists",
+				"software directory"
+			]
+		},
+		{
+			"id": "mcpserver",
+			"url": "https://mcpserver.ever.works",
+			"name": "Awesome MCP Servers",
+			"topics": [
+				"mcp servers",
+				"model context protocol servers",
+				"mcp tools"
+			]
+		},
+		{
+			"id": "react-components-hub",
+			"url": "https://react-components-hub.ever.works",
+			"name": "React Components Hub"
+		},
+		{
+			"id": "startup-books",
+			"url": "https://startup-books.ever.works",
+			"name": "Awesome Startup Books",
+			"topics": [
+				"startup books",
+				"business books"
+			]
+		},
+		{
+			"id": "sustainable-fashion",
+			"url": "https://sustainable-fashion.ever.works",
+			"name": "Sustainable Fashion"
+		},
+		{
+			"id": "vectordb",
+			"url": "https://vectordb.ever.works",
+			"name": "Awesome Vector Databases",
+			"topics": [
+				"vector databases",
+				"vector search",
+				"embedding databases"
+			]
+		}
+	]
+}

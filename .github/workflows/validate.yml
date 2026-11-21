@@ -1,0 +1,22 @@
+name: Validate registry
+
+on:
+  pull_request:
+    paths: ['registry.json', 'scripts/validate.mjs', '.github/workflows/validate.yml']
+  push:
+    branches: [main]
+    paths: ['registry.json', 'scripts/validate.mjs', '.github/workflows/validate.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+      - run: node scripts/validate.mjs
